@@ -8,4 +8,14 @@ public class Additional {
     }
     private boolean saveInBookmarks;
 
+    public boolean isSaveInBookmarks() {
+        return saveInBookmarks;
+    }
+
+    public void setSaveInBookmarks(boolean saveInBookmarks) {
+        this.saveInBookmarks = saveInBookmarks;
+    }
+
+
+
 }

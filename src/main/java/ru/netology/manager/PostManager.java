@@ -13,6 +13,5 @@ public class PostManager {
 
     public void delete(int ownerId, int postId) {
         // TODO: add logic
-        return null;
     }
 }
